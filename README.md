@@ -1,4 +1,4 @@
-# Read_HXV
+# Read_HVA
 Julia programs for reading Datawell Mk4 Waverider buoy `.HVA` files.
 
 ## Features

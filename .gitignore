@@ -1,0 +1,7 @@
+# Exclude data files
+Plots/
+Retired/
+Training_data/
+*.CSV
+*.xlsx
+*.jld2
